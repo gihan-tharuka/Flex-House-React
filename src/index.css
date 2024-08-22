@@ -6,3 +6,14 @@
 body {
   background-color: #000300;
 }
+
+.background-hero {
+  background-image: url('./assets/img/hero2.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.navbar {
+  background-color: #000300;
+}
