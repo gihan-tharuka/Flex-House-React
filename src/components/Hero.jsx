@@ -5,7 +5,7 @@ import { ReactTyped } from "react-typed";
 const Hero = () => {
   return (
     <div className="text-white background-hero">
-      <div className="max-w-[800px] mt-[-96px] w-full h-screen mx-auto text-center flex flex-col justify-center">
+      <div className="max-w-[800px]  w-full h-screen mx-auto text-center flex flex-col justify-center ">
         <p className="text-[#3b59a9] font-bold p-2">
           ACHIEVE YOUR FITNESS GOALS
         </p>
