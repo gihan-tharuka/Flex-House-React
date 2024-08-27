@@ -1,3 +1,3 @@
 # React-Front-End
  
-![Home Page](src/assests/screenshots/home.jpeg)
+![Home Page](src/assets/screenshots/home.jpeg)
