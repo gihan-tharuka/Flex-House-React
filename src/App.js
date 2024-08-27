@@ -14,7 +14,7 @@ function App() {
       <Hero />
       <Analytics />
       <Newsletter />
-      <Services />
+      
       <Cards />
       <Footer />
     </div>
